@@ -16,6 +16,6 @@ This application allows users to manage their tasks with priorities. Users can a
 - Load tasks from a file
 
 ## USE
-[Deployed App]([URL](https://replit.com/@sivani-l-r/To-Do-List-App?v=1)https://replit.com/@sivani-l-r/To-Do-List-App?v=1)
+[Deployed App]((https://replit.com/@sivani-l-r/To-Do-List-App?v=1)https://replit.com/@sivani-l-r/To-Do-List-App?v=1))
 
 
