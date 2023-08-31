@@ -18,5 +18,8 @@ This application allows users to manage their tasks with priorities. Users can a
 ## USE
 [Deployed App](https://replit.com/@sivani-l-r/To-Do-List-App?v=1)
 
+## Developed Using 
+Tkinter
+
 
 
