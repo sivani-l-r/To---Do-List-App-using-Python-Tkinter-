@@ -1,6 +1,6 @@
 # TODO List Web App
 
-[![Watch the video](https://i.stack.imgur.com/Vp2cE.png)]([https://youtu.be/vt5fpE0bzSY](https://www.youtube.com/watch?v=29JpQgiCaLg))
+[![Watch the video](ss-yt.png)]([https://youtu.be/vt5fpE0bzSY](https://www.youtube.com/watch?v=29JpQgiCaLg))
 
 This is a simple TODO list application built using Tkinter, a Python GUI library.
 
